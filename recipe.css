@@ -24,3 +24,12 @@ body {
 a {
     color: #A4A400;
 }
+
+div.quote {
+    background-color: #FFFFA8;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left:50px;
+    margin-right:50px;
+    font-style: italic;
+}
