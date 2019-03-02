@@ -66,3 +66,7 @@ div.quote {
     border-bottom: 1px dotted black;
 }
 
+ul {
+    list-style-image: url('pie_icon.gif');
+}
+
