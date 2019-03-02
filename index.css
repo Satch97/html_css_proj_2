@@ -1,7 +1,8 @@
-h1,h2 {
+h1 {
     color: #161a15;
     font-family: "Lucida Sans";
     text-decoration: underline;
     text-align: center;
+    font-size: 22pt;
     background-color: #F0F0F0
 }
