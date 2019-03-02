@@ -56,4 +56,7 @@ div.quote {
     margin-left: -60px;
 }
 
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
 
