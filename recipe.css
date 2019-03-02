@@ -33,3 +33,7 @@ div.quote {
     margin-right:50px;
     font-style: italic;
 }
+
+.strike {
+    text-decoration: line-through;
+}
