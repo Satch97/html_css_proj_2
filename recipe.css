@@ -69,4 +69,7 @@ div.quote {
 ul {
     list-style-image: url('pie_icon.gif');
 }
+.img {
+    float: left;
+}
 
